@@ -1,0 +1,3 @@
+module SmsCentre
+  # Your code goes here...
+end
